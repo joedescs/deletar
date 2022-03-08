@@ -1,1 +1,7 @@
-Meu primeiro arquivo comitado no git
+Meu primeiro arquivo modificado no git
+
+adicionando mais coisas no meu arquivo
+
+adicionei
+
+parei
